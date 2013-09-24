@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:weightSum="7">
+
+
+    <Button
+            android:id="@+id/b_help"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_help"/>
+    <Button
+            android:id="@+id/b_report_issue"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_report_issue"/>
+    <Button
+            android:id="@+id/b_inbox"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_inbox"/>
+    <Button
+            android:id="@+id/b_faqs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_faqs"/>
+    <Button
+            android:id="@+id/b_faq_section"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_faq_section"/>
+    <Button
+            android:id="@+id/b_single_faq"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/b_single_faq"/>
+
+</LinearLayout>
+

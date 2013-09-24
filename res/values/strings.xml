@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntelygenzFAQ</string>
+    <string name="b_help">Help</string>
+    <string name="b_report_issue">Report Issue</string>
+    <string name="b_inbox">Inbox</string>
+    <string name="b_faqs">All FAQs</string>
+    <string name="b_faq_section">Single FAQ Section</string>
+    <string name="b_single_faq">Single FAQ</string>
+</resources>
